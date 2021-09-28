@@ -1,0 +1,6 @@
+1. \sql
+2. \connect #username 
+   	# username --> root@localhost:3306
+3. password if require
+
+4. my sql is connected run mysql commands
